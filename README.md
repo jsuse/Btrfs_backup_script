@@ -1,2 +1,2 @@
 # Btrfs_backup_script
-Base on linux Btrfs
+Base on linux Btrfs.
